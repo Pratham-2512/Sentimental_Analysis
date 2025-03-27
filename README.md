@@ -4,17 +4,17 @@ Analysis Project
 
 📌 Project Overview
 
-This project is focused on analyzing [mention dataset/topic] using various data analysis techniques. It involves data preprocessing, visualization, and extracting meaningful insights to drive data-driven decisions.
+This project is focused on analyzing IMDB dataset  using various data analysis techniques. It involves data preprocessing, visualization, and extracting meaningful insights to drive data-driven decisions.
 
 🔍 Key Features
 
- 1.Data Cleaning & Preprocessing: Handling missing values, outlier detection, and data transformation.
+ 1. Data Cleaning & Preprocessing: Handling missing values, outlier detection, and data transformation.
 
- 2.Exploratory Data Analysis (EDA): Visualizing trends and patterns using Matplotlib/Seaborn.
+ 2. Exploratory Data Analysis (EDA): Visualizing trends and patterns using Matplotlib/Seaborn.
 
- 3.Statistical & Sentiment Analysis: Applying statistical techniques and sentiment analysis (if applicable).
+ 3. Statistical & Sentiment Analysis: Applying statistical techniques and sentiment analysis (if applicable).
 
- 4.Machine Learning Models (Optional): Implementing predictive models for deeper insights.
+ 4. Machine Learning Models (Optional): Implementing predictive models for deeper insights.
 
 🛠 Tech Stack:-
 
@@ -24,17 +24,17 @@ This project is focused on analyzing [mention dataset/topic] using various data 
 
 🚀 How to Run:-
 
-1.Clone the repository:
+1. Clone the repository:
 
-   git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/Pratham-2512/Sentimental_Analysis
    
-2.Install dependencies:
+2. Install dependencies:
 
-   pip install -r requirements.txt
+    pip install -r requirements.txt
    
-3.Run the analysis script:
+3. Run the analysis script:
 
-   python analysis.py
+    python analysis.py
 
 📊 Results & Insights:-
 
