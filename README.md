@@ -4,7 +4,7 @@ Analysis Project
 
 📌 Project Overview
 
-This project is focused on analyzing IMDB dataset  using various data analysis techniques. It involves data preprocessing, visualization, and extracting meaningful insights to drive data-driven decisions.
+This is ongoing project focused on analyzing IMDB dataset  using various data analysis techniques. It involves data preprocessing, visualization, and extracting meaningful insights to drive data-driven decisions.
 
 🔍 Key Features
 
