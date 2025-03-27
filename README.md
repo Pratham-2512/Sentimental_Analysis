@@ -7,34 +7,35 @@ Analysis Project
 This project is focused on analyzing [mention dataset/topic] using various data analysis techniques. It involves data preprocessing, visualization, and extracting meaningful insights to drive data-driven decisions.
 
 🔍 Key Features
-Data Cleaning & Preprocessing: Handling missing values, outlier detection, and data transformation.
 
-Exploratory Data Analysis (EDA): Visualizing trends and patterns using Matplotlib/Seaborn.
+ 1.Data Cleaning & Preprocessing: Handling missing values, outlier detection, and data transformation.
 
-Statistical & Sentiment Analysis: Applying statistical techniques and sentiment analysis (if applicable).
+ 2.Exploratory Data Analysis (EDA): Visualizing trends and patterns using Matplotlib/Seaborn.
 
-Machine Learning Models (Optional): Implementing predictive models for deeper insights.
+ 3.Statistical & Sentiment Analysis: Applying statistical techniques and sentiment analysis (if applicable).
 
-🛠 Tech Stack
+ 4.Machine Learning Models (Optional): Implementing predictive models for deeper insights.
 
-Programming Language: Python
+🛠 Tech Stack:-
 
-Libraries Used: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn (if ML is included)
+--->Programming Language: Python
 
-🚀 How to Run
+--->Libraries Used: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn (if ML is included)
 
-Clone the repository:
+🚀 How to Run:-
+
+1.Clone the repository:
 
    git clone https://github.com/your-username/your-repo-name.git
    
-Install dependencies:
+2.Install dependencies:
 
    pip install -r requirements.txt
    
-Run the analysis script:
+3.Run the analysis script:
 
    python analysis.py
 
-📊 Results & Insights
+📊 Results & Insights:-
 
 The findings of this analysis provide valuable insights into [mention key insights]. Check the Results folder for detailed reports and visualizations.
