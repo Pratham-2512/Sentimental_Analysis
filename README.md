@@ -38,4 +38,4 @@ This project is focused on analyzing IMDB dataset  using various data analysis t
 
 📊 Results & Insights:-
 
-The findings of this analysis provide valuable insights into [mention key insights]. Check the Results folder for detailed reports and visualizations.
+The findings of this analysis provide valuable insights. Check the Results folder for detailed reports and visualizations.
