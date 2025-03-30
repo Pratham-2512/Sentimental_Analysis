@@ -12,7 +12,7 @@ This is ongoing project focused on analyzing IMDB dataset  using various data an
 
  2. Exploratory Data Analysis (EDA): Visualizing trends and patterns using Matplotlib/Seaborn.
 
- 3. Statistical & Sentiment Analysis: Applying statistical techniques and sentiment analysis (if applicable).
+ 3. Statistical & Sentiment Analysis: Applying statistical techniques and sentiment analysis.
 
  4. Machine Learning Models (Optional): Implementing predictive models for deeper insights.
 
@@ -20,7 +20,7 @@ This is ongoing project focused on analyzing IMDB dataset  using various data an
 
 --->Programming Language: Python
 
---->Libraries Used: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn (if ML is included)
+--->Libraries Used: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn 
 
 🚀 How to Run:-
 
